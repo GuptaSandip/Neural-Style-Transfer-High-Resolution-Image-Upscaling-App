@@ -1,0 +1,9 @@
+📁 AI-Art-App
+│── 📁 model                 → Stores trained `.h5` (TensorFlow) & `.pth` (PyTorch) models
+│── 📁 data                  → Contains input images
+│── 📁 src                   → All core functions
+│   │── style_transfer.py    → Neural Style Transfer function
+│   │── super_resolution.py  → Super-Resolution Upscaling function
+│── app.py                   → Streamlit UI  
+│── requirements.txt         → Dependencies for deployment  
+│── README.md                → Documentation
