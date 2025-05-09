@@ -39,8 +39,8 @@ narwhals==1.38.2
 networkx==3.3
 numpy==2.1.2
 opencv-contrib-python==4.11.0.86
-opencv-python
-opencv-python-headless==4.11.0.86
+# opencv-python
+opencv-python-headless
 opt_einsum==3.4.0
 optree==0.15.0
 packaging==24.2
